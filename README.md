@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-I am **Venkatesh Ramalingam**, having years of experience in enterprise networking and infrastructure.
+I am having years of experience in enterprise networking and infrastructure.
 
 My journey started with networks and infrastructure, but my interests have continuously expanded toward **automation, software development, monitoring, observability, virtualization, security, and AI-assisted network operations**.
 
