@@ -122,7 +122,7 @@ I am especially interested in combining **Zabbix, Grafana, Prometheus, Loki, Zee
 
 ---
 
-# 💻 Coding & Software Development
+# 💻 Coding & Application Development
 
 Coding is becoming an increasingly important part of my engineering journey.
 
