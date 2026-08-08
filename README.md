@@ -176,7 +176,7 @@ I don't want to learn programming only by solving textbook examples. I prefer to
 
 ---
 
-# 🚀 Current Projects & Engineering Work
+# 🚀 Current Projects
 
 ## 🛰️ Orion — AI Network Analytics Platform
 
