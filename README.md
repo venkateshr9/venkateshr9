@@ -8,7 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B17,50:0B2A4A,100:00D9FF&height=220&section=header&text=VENKATESH%20RAMALINGAM&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Enterprise%20Networking%20%7C%20Automation%20%7C%20Observability%20%7C%20Open%20Source&descAlignY=58&descSize=18" width="100%" alt="Venkatesh Ramalingam profile banner"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=19%2B+Years+of+Enterprise+Networking;Building+Network+Monitoring+%26+Automation+Solutions;Python+%7C+Linux+%7C+VMware+%7C+Zabbix+%7C+Grafana;Exploring+DevOps%2C+Observability+%26+AI+for+Networks;Learning+by+Building+Real-World+Projects" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Enterprises+Networking;Building+Network+Monitoring+%26+Automation+Solutions;Python+%7C+Linux+%7C+VMware+%7C+Zabbix+%7C+Grafana;Exploring+DevOps%2C+Observability+%26+AI+for+Networks;Learning+by+Building+Real-World+Projects" alt="Typing introduction"/>
 
 <p>
   <a href="https://github.com/venkateshr9"><img src="https://img.shields.io/badge/GitHub-venkateshr9-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-I am **Venkatesh Ramalingam**, a network engineering professional from India with **19+ years of experience in enterprise networking and infrastructure**.
+I am **Venkatesh Ramalingam**, a network engineering professional from India with years of experience in enterprise networking and infrastructure.
 
 My professional journey started with networks and infrastructure, but my interests have continuously expanded toward **automation, software development, monitoring, observability, virtualization, security, and AI-assisted network operations**.
 
@@ -261,10 +261,10 @@ The project includes:
 
 Automation around GPON monitoring to collect optical information such as:
 
-- ONT RX power
-- ONT TX power
+- CPE RX power
+- CPE TX power
 - Optical health information
-- OLT / ONT operational data
+- GPON / CPE operational data
 
 The project explores browser automation, data extraction, Python processing, and visualization.
 
@@ -275,7 +275,7 @@ The project explores browser automation, data extraction, Python processing, and
 A monitoring and analytics pipeline around SBC/SIP infrastructure.
 
 ```text
-AudioCodes SBC
+     SBC
       ↓
 Syslog TCP
       ↓
