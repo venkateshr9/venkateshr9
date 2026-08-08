@@ -21,57 +21,13 @@
 
 ## 👨‍💻 About Me
 
-I am **Venkatesh Ramalingam**, a network engineering professional from India with years of experience in enterprise networking and infrastructure.
+I am **Venkatesh Ramalingam**, having years of experience in enterprise networking and infrastructure.
 
-My professional journey started with networks and infrastructure, but my interests have continuously expanded toward **automation, software development, monitoring, observability, virtualization, security, and AI-assisted network operations**.
-
-What excites me most is not simply using a technology — it is **building something useful with it**.
+My journey started with networks and infrastructure, but my interests have continuously expanded toward **automation, software development, monitoring, observability, virtualization, security, and AI-assisted network operations**.
 
 I enjoy taking a real operational problem, understanding it from the infrastructure level, writing code to solve it, connecting the solution to a database or monitoring platform, and turning the result into something that can be used by other engineers.
 
 > **My direction for the future:** combine deep enterprise networking experience with software engineering, DevOps, observability, automation, and AI to build practical infrastructure solutions.
-
----
-
-## 🧠 What Drives My Interest
-
-```text
-Network Problem
-      ↓
-Understand the infrastructure
-      ↓
-Collect the right data
-      ↓
-Automate repetitive work
-      ↓
-Write code / build a service
-      ↓
-Store and analyze the data
-      ↓
-Visualize it
-      ↓
-Monitor and alert
-      ↓
-Improve the solution
-```
-
-I am particularly interested in the space where **network engineering meets software engineering**.
-
-That includes:
-
-- 🔌 Network automation and programmability
-- 🐍 Python-based infrastructure tooling
-- 📡 SNMP and network telemetry
-- 📊 Monitoring and observability
-- 🧭 Network discovery and asset intelligence
-- 📈 Metrics, logs, dashboards, and alerting
-- 🖥️ VMware and infrastructure automation
-- 🐧 Linux server administration
-- 🗄️ Data collection and database-driven applications
-- 🔐 Network security and traffic analysis
-- 🤖 AI/ML applied to network operations
-- ☁️ DevOps and infrastructure engineering
-- 🚀 Open-source software development
 
 ---
 
@@ -270,30 +226,6 @@ The project explores browser automation, data extraction, Python processing, and
 
 ---
 
-## 📞 SIP Call Analytics
-
-A monitoring and analytics pipeline around SBC/SIP infrastructure.
-
-```text
-     SBC
-      ↓
-Syslog TCP
-      ↓
-syslog-ng
-      ↓
-Raw Log Storage
-      ↓
-Python SIP Parser
-      ↓
-MySQL
-      ↓
-Grafana
-      ↓
-Call Analytics
-```
-
----
-
 ## 📊 Zabbix Customization & Open Source Modules
 
 I enjoy extending monitoring platforms rather than treating them as black boxes.
@@ -325,51 +257,6 @@ Hands-on work with:
 - GPU virtualization research
 - Backup planning
 - Infrastructure troubleshooting
-
----
-
-# 🧪 Things I Like to Experiment With
-
-I learn best when I can build a working lab.
-
-```text
-Network
-  │
-  ├── SNMP
-  ├── Syslog
-  ├── NetFlow / Traffic Analysis
-  └── Packet Capture
-          │
-          ▼
-     Data Collection
-          │
-          ├── Python
-          ├── Zeek
-          ├── nDPI
-          └── Kafka
-          │
-          ▼
-      Data Storage
-          │
-          ├── MySQL
-          ├── PostgreSQL
-          └── InfluxDB
-          │
-          ▼
-      Observability
-          │
-          ├── Zabbix
-          ├── Prometheus
-          ├── Grafana
-          └── Loki
-          │
-          ▼
-       Automation / AI
-          │
-          ├── Python
-          ├── FastAPI
-          └── Local LLM
-```
 
 ---
 
