@@ -300,8 +300,11 @@ Every project gives me another opportunity to improve my engineering and coding 
 <div align="center">
 
 <a href="https://github.com/venkateshr9">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=venkateshr9&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" alt="Venkatesh's GitHub statistics"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateshr9&layout=compact&hide_border=true&langs_count=10&theme=tokyonight" alt="Venkatesh's top languages"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=venkateshr9&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Venkatesh's GitHub statistics"/>
+</a>
+
+<a href="https://github.com/venkateshr9">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=venkateshr9&layout=compact&hide_border=true&langs_count=10&theme=tokyonight" alt="Venkatesh's top languages"/>
 </a>
 
 <br/>
